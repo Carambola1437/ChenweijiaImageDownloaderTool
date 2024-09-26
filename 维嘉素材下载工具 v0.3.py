@@ -3,7 +3,7 @@ from easygui import buttonbox, msgbox, ccbox
 import os
 
 """————————————————————全是屎山代码，别介意，能用就行！————————————————————"""
-"""0.3版本"""
+""" 0.3版本 """
 
 language = ccbox("选择使用维嘉素材下载器时的语言：", "选择", ["English", "Chinese"])
 
