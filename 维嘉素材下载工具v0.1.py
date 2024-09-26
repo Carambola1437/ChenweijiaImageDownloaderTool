@@ -1,6 +1,7 @@
 import urllib.request
 from easygui import buttonbox, msgbox
 import os
+"""0.1版本"""
 # 下载网址
 url = {"维嘉.gif":
            "https://static.wikia.nocookie.net/carambola1437warehouse/images/c/c7/Weijia.gif/revision/latest?cb="
