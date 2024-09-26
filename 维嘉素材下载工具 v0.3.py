@@ -3,6 +3,7 @@ from easygui import buttonbox, msgbox, ccbox
 import os
 
 """————————————————————全是屎山代码，别介意，能用就行！————————————————————"""
+"""0.3版本"""
 
 language = ccbox("选择使用维嘉素材下载器时的语言：", "选择", ["English", "Chinese"])
 
@@ -26,7 +27,7 @@ en_us = ["Select the Weijia footage you want to download",
          "Please select the number of seconds for the AI-generated video "
          "(the video will be different for different number of seconds)",
 
-         "The file has been downloaded successfully, and it has been opened for you. You can find it in the program's "
+         "The file has been downloaded successfully, 和 it has been opened for you. You can find it in the program's "
          "path ({}). The author of this program is Li Ziheng. Thank you for using it.", "Tip", "Weijia, I'm coming!"]
 
 if language:
